@@ -1,0 +1,85 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 0422 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPF8.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/0422.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\VCBIANCHENG\0422\0422Dlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPF8.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/0422.pdb" /debug /machine:I386 /out:"Debug/0422.exe" /pdbtype:sept  .\Debug\0422.obj .\Debug\0422Dlg.obj .\Debug\StdAfx.obj .\Debug\0422.res .\DMC5480.lib "
+<h3>Output Window</h3>
+Compiling...
+0422Dlg.cpp
+E:\VCBIANCHENG\0422\0422Dlg.cpp(500) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(595) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(603) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(632) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(640) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(669) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(677) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(713) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(720) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(745) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(752) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(777) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(784) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(817) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(824) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(849) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(856) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(881) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(888) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(920) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(927) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(952) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(959) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(984) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(991) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1023) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1030) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1055) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1062) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1087) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1094) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1125) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1132) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1157) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1164) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1189) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1196) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1266) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1274) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1326) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1333) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1385) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1392) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1450) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1457) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1563) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1568) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1573) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1592) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1593) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1614) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1615) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1616) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1617) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1642) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1643) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1644) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+E:\VCBIANCHENG\0422\0422Dlg.cpp(1645) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+Linking...
+
+
+
+<h3>Results</h3>
+0422.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
